@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+This project was created following Eamonn Boyle's Tutorial Build a weather app(https://instil.co/blog/react-typescript-weather-app-tutorial-part-1/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
